@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Analyzing Kicktarter Campaign Data to unconve trends
+Analyzing Kicktarter Campaign Data to unconver trends
 
 ## Analysis and Challenges
 
