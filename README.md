@@ -1,15 +1,18 @@
-# Kickstarting with Excel
+## Kickstarting with Excel
 
-## Overview of Project
+### Overview of Project
 
 ### Purpose
-Analyzing Kicktarter Campaign Data to unconver trends
+The following anlysis was performed to analyze trends in Successful vs Unsuccessfful Kicktarter Campaigns.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+The following ![Graph](Resources/Theater_Outcomes_vs_Launch.png) dislays a monthly breakdown of Successful, Failed and Canceled Theatre based Kickstarters.
+
 
 ### Analysis of Outcomes Based on Goals
+
 Further details click [here](https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
@@ -18,7 +21,13 @@ Further details click [here](https://github.com/joshb738/kickstarter-analysis/bl
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
+based on the analysis we can determine that 
+a) approximately 61% of theatre kickstarter campagigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
+b) approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
+
+- What can you conclude about the Outcomes based on Goal
+
+The majority of plays with  are under $5000 have a 75% average success rate. Pledges from ranging from the $5000 to $25000  have a
 
 - What are some limitations of this dataset?
 
