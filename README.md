@@ -3,7 +3,7 @@
 ### Overview of Project
 
 ### Purpose
-The following anlysis was performed to analyze trends in Successful vs Unsuccessfful Kicktarter Campaigns.
+The following anlysis was performed to analyze trends of Successful vs Unsuccessfful Kicktarter Campaigns.
 
 ## Analysis and Challenges
 
@@ -23,12 +23,10 @@ Further details click [here](https://github.com/joshb738/kickstarter-analysis/bl
 ## Results
 
 Based on the analysis of  the Outcomes based on Launch Date we can determine that 
-- a) approximately 61% of theatre kickstarter campagigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
-- b) approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
+- Approximately 61% of theatre kickstarter campagigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
+- Approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
 
-- What can you conclude about the Outcomes based on Goal
-
-The majority of plays with  are under $5000 have a 75% average success rate. Pledges from ranging from the $5000 to $25000  have a
+- Upon further analysis of Outcomes based on Goals for Theatres, we can conclude that the majority of play kickstarters have 75% success rate of achieving their goal of $5000 or less. Pledges from ranging from the $20000 to $35000 have a higher failure rate. 
 
 - What are some limitations of this dataset?
 
