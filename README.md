@@ -10,6 +10,7 @@ Analyzing Kicktarter Campaign Data to unconve trends
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+Further detailed click [here] (https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
