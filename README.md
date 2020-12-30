@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+Perfoming analysis on Kickstarter Data to unconver trends
 
 ## Analysis and Challenges
 
