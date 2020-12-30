@@ -22,11 +22,9 @@ Further details click [here](https://github.com/joshb738/kickstarter-analysis/bl
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-based on the analysis we can determine that 
-*a) approximately 61% of theatre kickstarter campagigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
-*b) approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
+Based on the analysis of  the Outcomes based on Launch Date we can determine that 
+- a) approximately 61% of theatre kickstarter campagigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
+- b) approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
 
 - What can you conclude about the Outcomes based on Goal
 
