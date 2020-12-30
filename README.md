@@ -12,7 +12,7 @@ The following dislays a monthly breakdown of Successful, Failed and Canceled The
 
 ### Analysis of Outcomes Based on Goals
 
-Further details click [here](https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
+Further details click [here](https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
