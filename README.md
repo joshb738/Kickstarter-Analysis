@@ -8,8 +8,11 @@ The following anlysis was performed to analyze trends in Successful vs Unsuccess
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+
 The following dislays a monthly breakdown of Successful, Failed and Canceled Theatre based Kickstarters.
-<img src="https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png" width="700" height="400" />
+<p align="center">
+  <img src="https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png" width="700" height="400" />
+</p>
 
 ### Analysis of Outcomes Based on Goals
 
