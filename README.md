@@ -1,22 +1,26 @@
 ## Kickstarting with Excel
 
-### Overview of Project
+### Project Overview
 
 ### Purpose
-The following anlysis was performed to analyze trends of Successful vs Unsuccessfful Kicktarter Campaigns.
+The following anlysis was performed to analyze trends of Successful vs Unsuccessfful Kicktarter Campaigns from the year 2009 - 2017. 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-The following dislays a monthly breakdown of Successful, Failed and Canceled Theatre based Kickstarters.
+The following chart displays a monthly breakdown of Successful, Failed and Canceled Theatre based Kickstarters.
 <p align="center">
   <img src="https://raw.githubusercontent.com/joshb738/kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png" width="700" height="400" />
 </p>
 
 ### Analysis of Outcomes Based on Goals
 
-Further details click [here](https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+The following chart provides insight on the percentage of successful, failed, and canceled Theatre/Play kickstater for reaching their funding goal.
+
+<p align="center">
+  <img src="https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png" width="1000" height="400" />
+</p>
 
 ### Challenges and Difficulties Encountered
 
@@ -26,8 +30,8 @@ Further details click [here](https://github.com/joshb738/kickstarter-analysis/bl
    - Approximately 61% of theatre kickstarter campagigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
    - Approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
 
-2. Upon further analysis of Outcomes based on Goals for Theatres, we can conclude that the majority of play kickstarters have 75% success rate of achieving their goal of $5000 or less. Pledges from ranging from the $20000 to $35000 have a higher failure rate. 
+2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude that the majority of play kickstarters set a funding goal of $5000 or less and have achieved a 75% success rate.  
 
-- What are some limitations of this dataset?
+3. What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
