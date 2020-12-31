@@ -3,13 +3,13 @@
 ### Project Overview
 
 ### Purpose
-The following anlysis was performed to analyze trends of Successful vs Unsuccessfful Kicktarter Campaigns from the year 2009 - 2017. 
+The following anlysis was performed to analyze trends of Successful vs Unsuccessfful Theatre Kicktarter Campaigns from the year 2009 - 2017. 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-The following chart displays a monthly breakdown of Successful, Failed and Canceled Theatre based Kickstarters.
+The following chart provides a monthly breakdown of Successful, Failed and Canceled Theatre based Kickstarters.
 <p align="center">
   <img src="https://raw.githubusercontent.com/joshb738/kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png" width="700" height="400" />
 </p>
@@ -31,7 +31,7 @@ The following chart provides insight on the percentage of Theatre/Play campaigns
   
 2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude the following:
    - Approximately 85% of all theatre/play campaigns have a goal limit of under $10000.
-   - Approximately 68% of all theatre/play campaigns under the $10000 limit were successful in achieving their goal. 
+   - Approximately 68% of all theatre/play campaigns under the $10000 goal limit were successful in achieving their goal. 
 
 3. What are some limitations of this dataset?
 
