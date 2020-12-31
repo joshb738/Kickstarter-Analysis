@@ -29,7 +29,9 @@ The following chart provides insight on the percentage of Theatre/Play campaigns
    - Approximately 61% of theatre kickstarter campaigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
    - Approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
   
-2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude that 75% of play kickstarters with a funding goal of $5000 or less have successfully ahcieved their goal. 
+2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude the following:
+   - Approximately 85% of all theatre/play campaigns have a goal limit of under $10000.
+   - Approximately 68% of all theatre/play campaigns under the $10000 limit were successful in achieving their goal. 
 
 3. What are some limitations of this dataset?
 
