@@ -26,12 +26,12 @@ The following chart provides insight on the percentage of successful, failed, an
 
 ## Results
 
-1. Based on the analysis of  the **Outcomes based on Launch Date** we can determine that 
-   - Approximately 61% of theatre kickstarter campagigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
+1. Based on the analysis of  the **Outcomes based on Launch Date** we can determine the following:
+   - Approximately 61% of theatre kickstarter campaigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
    - Approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
-
-2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude that the majority of play kickstarters set a funding goal of $5000 or less and have achieved a 75% success rate.  
+  
+2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude that 75% of play kickstarters with a funding goal of $5000 or less have successfully ahcieved their goal. 
 
 3. What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+4. What are some other possible tables and/or graphs that we could create?
