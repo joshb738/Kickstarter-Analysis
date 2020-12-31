@@ -16,8 +16,7 @@ The following chart displays a monthly breakdown of Successful, Failed and Cance
 
 ### Analysis of Outcomes Based on Goals
 
-The following chart provides insight on the percentage of successful, failed, and canceled Theatre/Play kickstater for reaching their funding goal.
-
+The following chart provides insight on the percentage of Theatre/Play campaigns that were successful, failed, or canceled based on various goal amounts. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/joshb738/kickstarter-analysis/main/Resources/Outcomes_vs_Goals.png" width="1200" height="400" />
 </p>
