@@ -3,31 +3,31 @@
 ### Project Overview
 
 ### Purpose
-The following anlysis was performed to analyze trends of Successful vs Unsuccessfful Theatre Kicktarter Campaigns from the year 2009 - 2017. 
+The following analysis was performed to analyze trends of Successful vs Unsuccessful Theatre Kickstarter Campaigns from the year 2009 - 2017. 
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+#### Analysis of Outcomes Based on Launch Date
 
-The following chart provides a monthly breakdown of Successful, Failed and Canceled Theatre based Kickstarters.
+The following chart provides a monthly breakdown of successful, failed and canceled Theatre based Kickstarter campaigns.
 <p align="center">
   <img src="https://raw.githubusercontent.com/joshb738/kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png" width="700" height="400" />
 </p>
 
-### Analysis of Outcomes Based on Goals
+#### Analysis of Outcomes Based on Goals
 
-The following chart provides insight on the percentage of successful, failed, or canceled Theatre/Play campaigns based on various goal amounts. 
+The following chart provides insight on the percentage of successful, failed, and canceled Theatre/Play campaigns based on various goal amounts. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/joshb738/kickstarter-analysis/main/Resources/Outcomes_vs_Goals.png" width="900" height="350" />
 </p>
 
-### Challenges and Difficulties Encountered
+#### Challenges and Difficulties Encountered
 
 ## Results
 
-1. Based on the analysis of  the **Outcomes based on Launch Date** we can determine the following:
-   - Approximately 61% of theatre kickstarter campaigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
-   - Approximately 35% of successful theatre kickstarters are launched during the months of May- July. 
+1. Based on the analysis of the **Outcomes based on Launch Date** we can determine the following:
+   - Approximately 61% of theatre Kickstarter campaigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
+   - Approximately 35% of successful theatre Kickstarter campaigns are launched during the months of May- July. 
   
 2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude the following:
    - Approximately 85% of all theatre/play campaigns have a goal limit of under $10000.
