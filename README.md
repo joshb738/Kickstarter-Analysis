@@ -18,7 +18,7 @@ The following chart provides a monthly breakdown of successful, failed and cance
 
 The following chart provides insight on the percentage of successful, failed, and canceled Theatre/Play campaigns based on various goal amounts. 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joshb738/kickstarter-analysis/main/Resources/Outcomes_vs_Goals.png" width="900" height="350" />
+  <img src="Resources/Outcomes_vs_Goals.png" width="900"/>
 </p>
 
 ### Challenges and Difficulties Encountered
