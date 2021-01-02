@@ -33,8 +33,8 @@ The following chart provides insight on the percentage of successful, failed, an
    - Approximately 85% of all theatre/play campaigns have a goal limit of under $10000.
    - Approximately 68% of all theatre/play campaigns under the $10000 goal limit were successful in achieving their goal. 
 
-3. Limitations of this dataset? 
-   - The data set includes samples from all types of  Kickstarter campaign types. A larger sample with only Theatre based Kickstarter campaigns would provide a more accurate sample for analysis.
+3. Dataset Limitations 
+   - The dataset includes samples from all types of Kickstarter campaign types. A larger dataset with only Theatre based Kickstarter campaigns would provide a more detailed and accurate sample for analysis.
    - The goal outcome for successful vs non successful may be skewed based on outliers in the set goal amount.
   
 4. Suggestions for other possible tables and/or graphs to provide further insight
