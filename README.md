@@ -3,7 +3,7 @@
 ### Project Overview
 
 ### Purpose
-The following analysis was performed to analyze trends of Successful vs Unsuccessful Kickstarter campaigns for theatre projects in 2009 - 2017.
+The following analysis was performed to analyze trends of Successful vs Unsuccessful Kickstarter campaigns for theatre projects in 2009 - 2017. The Kickcstarter campaigns are deemed successful or unsuccessful based on the ability to meet their funding goal before the deadline. 
 
 ## Analysis and Challenges
 
@@ -23,10 +23,11 @@ The following chart provides insight on the percentage of successful, failed, an
 
 ### Challenges and Difficulties Encountered
 
-## Results
 
+## Results
+4
 1. Based on the analysis of the **Outcomes based on Launch Date** we can determine the following:
-   - Approximately 61% of theatre Kickstarter campaigns launched during 2009 - 2017 were successful in meeting their pledged goal. 
+   - Approximately 61% of theatre Kickstarter campaigns launched during 2009 - 2017 were successful in achieving their project goal. 
    - Approximately 35% of successful theatre Kickstarter campaigns are launched during the months of May- July. 
   
 2. Upon further analysis of **Outcomes based on Goals** for Theatres, we can conclude the following:
@@ -38,6 +39,6 @@ The following chart provides insight on the percentage of successful, failed, an
    - The goal outcome for successful vs non successful may be skewed based on outliers in the set goal amount.
   
 4. Suggestions for other possible tables and/or graphs to provide further insight
-   - Theatre Outcome by Country
-   - Outcome based on Average donation
+   - Theatre Outcome by Subcategory
+   - 
    
