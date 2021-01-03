@@ -21,8 +21,8 @@ The following chart provides insight on the percentage of successful, failed, an
   <img src="Resources/Outcomes_vs_Goals.png" width="900"/>
 </p>
 
-### Challenges and Difficulties Encountered
-I was fortunate enough not to encounter many difficulties or challenges  for this analysis, however additional research was needed for image resizing and .
+#### Challenges and Difficulties Encountered
+I was fortunate enough not to encounter many difficulties or challenges  for this analysis, however additional research was needed for image allignment and resizing.
 
 ## Results
 
