@@ -39,6 +39,6 @@ I was fortunate enough not to encounter many difficulties or challenges  for thi
    - The goal outcome for successful vs non successful may be skewed based on outliers in the set goal amount.
   
 4. Suggestions for other possible tables and/or graphs to provide further insight
-   - ![Theatre Outcome by Subcategory](https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_by_Subcategory.png)
+   - [Theatre Outcome by Subcategory](https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_by_Subcategory.png)
    - 
    
