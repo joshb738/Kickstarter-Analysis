@@ -22,7 +22,7 @@ The following chart provides insight on the percentage of successful, failed, an
 </p>
 
 ### Challenges and Difficulties Encountered
-I was fortunate enough not to encounter many difficulties or challenges  for this analysis. How ever I performed 
+I was fortunate enough not to encounter many difficulties or challenges  for this analysis, however additional research was needed for image resizing and .
 
 ## Results
 
@@ -40,5 +40,5 @@ I was fortunate enough not to encounter many difficulties or challenges  for thi
   
 4. Suggestions for other possible tables and/or graphs to provide further insight
    - [Theatre Outcome by Subcategory](https://github.com/joshb738/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_by_Subcategory.png)
-   - 
+  
    
