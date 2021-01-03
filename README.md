@@ -22,7 +22,7 @@ The following chart provides insight on the percentage of successful, failed, an
 </p>
 
 #### Challenges and Difficulties Encountered
-I was fortunate enough not to encounter many difficulties or challenges  for this analysis, however additional research was needed for image allignment and resizing.
+I was fortunate enough not to encounter many difficulties or challenges  for this analysis, however additional research was needed for coding image allignment and resizing.
 
 ## Results
 
